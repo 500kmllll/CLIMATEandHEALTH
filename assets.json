@@ -1,0 +1,100 @@
+{
+  "street": [
+    "assets/street-1.webp",
+    "assets/street-2.webp",
+    "assets/street-3.webp",
+    "assets/street-4.webp",
+    "assets/street-5.webp",
+    "assets/street-6.webp"
+  ],
+  "residential": [
+    "assets/residential-1.webp",
+    "assets/residential-2.webp",
+    "assets/residential-3.webp",
+    "assets/residential-4.webp",
+    "assets/residential-5.webp",
+    "assets/residential-6.webp"
+  ],
+  "bridge": [
+    "assets/bridge-1.webp",
+    "assets/bridge-2.webp",
+    "assets/bridge-3.webp",
+    "assets/bridge-4.webp",
+    "assets/bridge-5.webp",
+    "assets/bridge-6.webp"
+  ],
+  "flyover": [
+    "assets/flyover-1.webp",
+    "assets/flyover-2.webp",
+    "assets/flyover-3.webp",
+    "assets/flyover-4.webp",
+    "assets/flyover-5.webp",
+    "assets/flyover-6.webp"
+  ],
+  "tunnel": [
+    "assets/tunnel-1.webp",
+    "assets/tunnel-2.webp",
+    "assets/tunnel-3.webp",
+    "assets/tunnel-4.webp",
+    "assets/tunnel-5.webp",
+    "assets/tunnel-6.webp"
+  ],
+  "shop": [
+    "assets/shop-1.webp",
+    "assets/shop-2.webp",
+    "assets/shop-3.webp",
+    "assets/shop-4.webp",
+    "assets/shop-5.webp",
+    "assets/shop-6.webp"
+  ],
+  "drink": [
+    "assets/drink-1.webp",
+    "assets/drink-2.webp",
+    "assets/drink-3.webp",
+    "assets/drink-4.webp",
+    "assets/drink-5.webp",
+    "assets/drink-6.webp"
+  ],
+  "walk": [
+    "assets/walk.webp"
+  ],
+  "home": [
+    "assets/home.webp"
+  ],
+  "bed": [
+    "assets/bed.webp"
+  ],
+  "bedHot": [
+    "assets/bedHot.webp"
+  ],
+  "morning": [
+    "assets/morning.webp"
+  ],
+  "roadRest": [
+    "assets/roadRest-1.webp",
+    "assets/roadRest-2.webp",
+    "assets/roadRest-3.webp",
+    "assets/roadRest-4.webp",
+    "assets/roadRest-5.webp",
+    "assets/roadRest-6.webp"
+  ],
+  "lunchShade": [
+    "assets/lunchShade-1.webp",
+    "assets/lunchShade-2.webp",
+    "assets/lunchShade-3.webp",
+    "assets/lunchShade-4.webp",
+    "assets/lunchShade-5.webp",
+    "assets/lunchShade-6.webp"
+  ],
+  "lunchNearby": [
+    "assets/lunchNearby-1.webp",
+    "assets/lunchNearby-2.webp",
+    "assets/lunchNearby-3.webp",
+    "assets/lunchNearby-4.webp",
+    "assets/lunchNearby-5.webp",
+    "assets/lunchNearby-6.webp"
+  ],
+  "nightDrink": [
+    "assets/nightDrink.webp"
+  ]
+}
